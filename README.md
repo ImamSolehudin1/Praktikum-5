@@ -53,18 +53,18 @@
 4. Hasil programnya.
 ![Gambar](Screenshot/tugaspraktikum/tambahdata.png)
 5. Program untuk menambahkan data. sebagai berikut:
-![Gambar](Screenshot/tugaspraktikum/tambahdata.png)
-6. Hasil programnya.
 ![Gambar](Screenshot/tugaspraktikum/tambahdata1.png)
+6. Hasil programnya.
+![Gambar](Screenshot/tugaspraktikum/tambahdata.png)
 7. program untuk Mencari data. Sebagai berikut:
-![Gambar](Screenshot/tugaspraktikum/caridata.png)
-8. Hasil program.
 ![Gambar](Screenshot/tugaspraktikum/caridata1.png)
+8. Hasil program.
+![Gambar](Screenshot/tugaspraktikum/caridata.png)
 9. Program untuk menghapus data. Sebagai berikut:
-![Gambar](Screenshot/tugaspraktikum/hapusdata.png)
-10. Hasil program.
 ![Gambar](Screenshot/tugaspraktikum/hapusdata1.png)
+10. Hasil program.
+![Gambar](Screenshot/tugaspraktikum/hapusdata.png)
 11. Program untuk mengubah data. Sebagai berikut :
-![Gambar](Screenshot/tugaspraktikum/ubahdata.png)
-12. Hasil program.
 ![Gambar](Screenshot/tugaspraktikum/ubahdata1.png)
+12. Hasil program.
+![Gambar](Screenshot/tugaspraktikum/ubahdata.png)
