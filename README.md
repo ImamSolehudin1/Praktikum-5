@@ -41,3 +41,30 @@
 ![Gambar](Screenshot/latpy/ss8.png)
 2. Hasil Program
 ![Gambar](Screenshot/latpy/ss88.png)
+
+
+# TUGAS PRAKTIKUM 5
+# Menampilkan Daftar Nilai Mahasiswa
+
+1. Disini saya akan membuat program menampilkan daftar nilai mahasiswa.
+2. untuk programnya saya menggunakan fungsi import os.system, yang berfungsi agar bisa mengakses database.txt yang saya buat. Dan juga saya menggunakan perulangan dan juga if else.
+3. program untuk menampilkan daftar nilai, sebagai berikut:
+![Gambar](Screenshot/tugaspraktikum/lihatdata.png)
+4. Hasil programnya.
+![Gambar](Screenshot/tugaspraktikum/tambahdata.png)
+5. Program untuk menambahkan data. sebagai berikut:
+![Gambar](Screenshot/tugaspraktikum/tambahdata.png)
+6. Hasil programnya.
+![Gambar](Screenshot/tugaspraktikum/tambahdata1.png)
+7. program untuk Mencari data. Sebagai berikut:
+![Gambar](Screenshot/tugaspraktikum/caridata.png)
+8. Hasil program.
+![Gambar](Screenshot/tugaspraktikum/caridata1.png)
+9. Program untuk menghapus data. Sebagai berikut:
+![Gambar](Screenshot/tugaspraktikum/hapusdata.png)
+10. Hasil program.
+![Gambar](Screenshot/tugaspraktikum/hapusdata1.png)
+11. Program untuk mengubah data. Sebagai berikut :
+![Gambar](Screenshot/tugaspraktikum/ubahdata.png)
+12. Hasil program.
+![Gambar](Screenshot/tugaspraktikum/ubahdata1.png)
